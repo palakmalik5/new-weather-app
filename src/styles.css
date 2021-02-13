@@ -45,3 +45,13 @@ li {
 .serch-page {
   margin-bottom: 10px;
 }
+.small{
+  font-size: 80%;
+    font-weight: 400;
+    box-sizing: border-box;
+    font-family: arial, sans-serif;
+    margin: 0 auto;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
